@@ -1,0 +1,28 @@
+K1 Max 
+
+Bought = Nov 2024
+Slicer = Orca Slicer
+
+***************************
+***   Setup Procedure   ***
+***************************
+
+Temperature Tower
+
+Flow Rate
+Grid of 9 (Two Passes)
+
+Cubic Vase
+Create a 60x60x60 cube and then check Process > Other > Sprial Vase
+
+Take note of your default wall width (i.e. 0.42).  If you are not sure, set all wall widths to 0.4 (same size as your nozzle).
+
+Retraction Test
+
+Max Volumetric Flow 
+
+VFA
+
+Orca Tolerance Test
+
+
